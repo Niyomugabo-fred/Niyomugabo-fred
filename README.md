@@ -1,16 +1,27 @@
-## Hi there 👋
+Niyomugabo Frederic  
+Founder & Lead Developer — LIGHTMGROUP Solutions  
 
-<!--
-**Niyomugabo-fred/Niyomugabo-fred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable digital systems, SaaS platforms, and real-world solutions across Africa.
 
-Here are some ideas to get you started:
+🚀 Core Platforms
+- Kwely → Hospitality & booking ecosystem (restaurants, hotels, salons)
+- REFAC → National education feedback system (Rwanda)
+- LuminaJS → Modern JavaScript framework (multi-backend support)
+- iHema Protector → AI-powered device protection system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+- Backend: Django, Python, PHP
+- Frontend: HTML, Tailwind CSS, JavaScript
+- Databases: MySQL, MariaDB
+- DevOps: VPS (Linux), cPanel, Cloudflare, SSL
+
+🌍 Focus
+- SaaS platforms
+- NGO & Government systems
+- AI-powered applications
+- Multi-tenant architectures
+
+📍 Kigali, Rwanda  
+📧 niyomugabofrederic39@gmail.com  
+
+“Building systems that solve real problems.”
