@@ -1,27 +1,24 @@
-Niyomugabo Frederic  
+Hi, I'm Niyomugabo Frederic 👋  
 Founder & Lead Developer — LIGHTMGROUP Solutions  
 
-I build scalable digital systems, SaaS platforms, and real-world solutions across Africa.
+I build scalable SaaS platforms and real-world systems across Africa.
 
 🚀 Core Platforms
-- Kwely → Hospitality & booking ecosystem (restaurants, hotels, salons)
+- Kwely → Hospitality & booking ecosystem
 - REFAC → National education feedback system (Rwanda)
-- LuminaJS → Modern JavaScript framework (multi-backend support)
+- LuminaJS → Modern JavaScript framework
 - iHema Protector → AI-powered device protection system
 
 💻 Tech Stack
-- Backend: Django, Python, PHP
-- Frontend: HTML, Tailwind CSS, JavaScript
-- Databases: MySQL, MariaDB
-- DevOps: VPS (Linux), cPanel, Cloudflare, SSL
+- Django, Python, PHP
+- Tailwind CSS, JavaScript
+- MySQL / MariaDB
+- DevOps & VPS deployment
 
 🌍 Focus
-- SaaS platforms
+- SaaS products
 - NGO & Government systems
-- AI-powered applications
-- Multi-tenant architectures
+- AI-powered platforms
 
 📍 Kigali, Rwanda  
-📧 niyomugabofrederic39@gmail.com  
-
-“Building systems that solve real problems.”
+📧 niyomugabofrederic39@gmail.com
