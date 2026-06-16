@@ -1,6 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,45:1f2937,100:f5c542&height=240&section=header&text=Niyomugabo%20Frederic&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Founder%20%26%20Lead%20Developer%20at%20LIGHTMGROUP&descAlignY=55&descSize=16" alt="Niyomugabo Frederic Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:f5c542&height=220&section=header&text=Niyomugabo%20Frederic&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Systems%20Across%20Africa&descAlignY=55&descSize=16" alt="Niyomugabo Frederic Banner"/>
+</p>
+
+<p align="center">
+  <strong>Founder & Lead Developer at LIGHTMGROUP</strong>
 </p>
 
 <p align="center">
@@ -43,6 +47,7 @@ Based in **Kigali, Rwanda**, building for Africa and beyond.
 - Hosting, deployment, SSL, DNS, and server management
 - App publishing support on Google Play Console
 - SEO, performance, and digital growth support
+- UI/UX design and product planning
 
 ---
 
@@ -156,6 +161,21 @@ A communication product ecosystem ready for public visibility and future growth.
 
 ---
 
+### Menya Amakuru App — Education technology
+
+A mobile platform that helps communities report school issues, access education resources, track updates, and collaborate with education stakeholders.
+
+**What I worked on:**
+- Android-first app experience
+- Reporting and update flow
+- Education-focused UX
+- Public information access
+
+**Result:**  
+A practical mobile tool for education communication and reporting.
+
+---
+
 ### Sheba’s Love / Stanwood Cottage — Care home website  
 https://www.stanwoodcottageadultfamilyhome.com/
 
@@ -240,6 +260,7 @@ A professional online presence for adult family home services.
 - Google Play Console publishing support
 - SEO, performance, and website optimization
 - UI/UX design and product planning
+- Website backups, migrations, and production support
 
 ---
 
