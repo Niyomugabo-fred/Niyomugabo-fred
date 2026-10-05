@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Founder & Lead Developer at LIGHTMGROUP</strong>
+  <strong>Lead Developer at LIGHTMGROUP</strong>
 </p>
 
 <p align="center">
