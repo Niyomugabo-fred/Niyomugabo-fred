@@ -16,11 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://niyomugabofrederic.lightmgroup.com/">Portfolio</a> •
   <a href="https://lightmgroup.com">LIGHTMGROUP</a> •
   <a href="mailto:niyomugabofrederic39@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/company/lightmgroup">LinkedIn</a> •
-  <a href="https://x.com/lightmgroup">X</a>
 </p>
 
 ---
