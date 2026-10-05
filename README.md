@@ -44,6 +44,7 @@ Product & collaboration	UI/UX design, requirements discovery, client communicati
 
 🚀 Selected projects
 PAM Rwanda — Membership, screening & coordination
+ 
 A digital platform connecting public information with member services and organizational workflows.
 - Built membership applications, screening workflows, coordinator access, and reporting dashboards.
 - Developed mobile APIs and structured data imports.
@@ -51,6 +52,7 @@ A digital platform connecting public information with member services and organi
 - Supported Linux VPS deployment with Nginx and ongoing production operations.
 Why I'm proud of it: It brings several interconnected workflows into one system that members, coordinators, and administrators can use.
 Autisme Rwanda — Website & mobile applications
+ 
 A web and mobile project supporting autism information and screening workflows.
 - Worked on the website, Android and iOS applications, and backend APIs.
 - Built screening tools for different user groups, offline workflows, and PDF notes.
@@ -69,6 +71,7 @@ A furniture commerce platform with integrated payment services.
 - Worked across storefront functionality, backend integration, and production configuration.
 Why I'm proud of it: It connects the customer experience with payment processing and the operational details needed to run a live application.
 REFAC / Menya Amakuru — Education reporting & resources
+ 
 A platform for community reporting, education resources, and organizational updates.
 - Built Django workflows, content management, dashboards, and mobile APIs.
 - Worked on structured reports with location, priority, and education details.
@@ -80,9 +83,6 @@ Product	Focus
 Kwely	Hospitality, booking, and business services
 LuminaChat	Communication tools for businesses and communities
 Check	AI-powered website visibility and SEO analysis
-Ntwaza	Bus parcel management and logistics workflows
-TSINDA	Exam preparation and personalized practice
-UMUTURAGE KWISONGA	Feedback, reporting, and organizational response workflows
 
 
 <details>
@@ -97,10 +97,6 @@ GMDC	Corporate mining website	Website
 Diamond Logistics	Logistics website	Website
 Umuganda Wanjye	Civic technology platform	Website
 Theo Makombe	Personal brand website	Website
-KYRO	Sponsorship and community support	In development
-iHema Protector	Device protection and reporting	In development
-iKubiro	Hospitality ordering and booking	In development
-LIGHTMGROUP Hosting	Client hosting and server management	Internal systems
 
 
 </details>
