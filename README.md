@@ -9,8 +9,7 @@
 <p align="center"><strong>Kigali, Rwanda 🇷🇼 · Building for Africa and beyond</strong></p>
 
 <p align="center">
-  <a href="https://niyomugabofrederic.lightmgroup.com">Portfolio</a> ·
-  <a href="https://lightmgroup.com">LIGHTMGROUP</a> ·
+  <a href="https://lightmgroup.com">LIGHTMGROUP — Company & Project Showcase</a> ·
   <a href="mailto:niyomugabofrederic39@gmail.com">Let's talk</a>
 </p>
 
@@ -71,7 +70,7 @@ My work spans community organizations, education, healthcare, commerce, and hosp
 
 - Django workflows, content management, dashboards, mobile APIs, structured reports, and offline mobile reporting.
 
-> Many client projects live in private repositories. The examples above are based on my existing portfolio and project record; no private client information is published here.
+> Many client projects live in private repositories. The examples above are based on my documented project record; no private client information is published here. Visit [LIGHTMGROUP](https://lightmgroup.com) for the company and project showcase.
 
 ## Products in development
 
@@ -99,7 +98,6 @@ I’m open to full stack, backend, and software engineering opportunities, as we
 | Engagement | Full-time or contract |
 | Availability | Immediately |
 | Email | [niyomugabofrederic39@gmail.com](mailto:niyomugabofrederic39@gmail.com) |
-| Portfolio | [niyomugabofrederic.lightmgroup.com](https://niyomugabofrederic.lightmgroup.com) |
 | Company | [LIGHTMGROUP](https://lightmgroup.com) |
 
 <p align="center"><strong>From the first conversation to the production server — I take ownership.</strong></p>
