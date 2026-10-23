@@ -21,12 +21,14 @@
 
 ## Navigation
 
-- [About](#about)
-- [Capabilities](#capabilities)
-- [Selected work](#selected-work)
-- [Products in development](#products-in-development)
-- [How I work](#how-i-work)
-- [Contact](#contact)
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#capabilities">Capabilities</a> ·
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#products-in-development">Products in development</a> ·
+  <a href="#how-i-work">How I work</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
 ---
 
